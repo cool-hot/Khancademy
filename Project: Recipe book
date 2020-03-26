@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        
+        h1{
+            color:rgb(117, 29, 158);    
+        }
+        
+        .Contents{
+            background-color:rgb(201, 237, 71);
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>____'s Recipe Book</h1>
+        
+        <h2 class="Contents">Contents:</h2>
+        
+        <ol>
+            <li><a href="https://en.wikibooks.org/wiki/Cookbook:Recipesh2">Recipe #1</a></li>
+        </ol>
+      
+        <h2 id="Recipe #1">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: _</li>
+            <li>Serves: _</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Do something.
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/LG_Dios_Built-In_Cooking_Class_with_Kim_Ho-Jin.jpg/800px-LG_Dios_Built-In_Cooking_Class_with_Kim_Ho-Jin.jpg" alt="cooking class" width="350">
+</p> 
+        <p><strong>Step 2:</strong> Do simple</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Smiling_carrot.jpg/800px-Smiling_carrot.jpg" alt="real simple cooking" width="350">
+    <p><em>Source: <a href="https://en.wikipedia.org/wiki/Recipe">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
