@@ -21,9 +21,17 @@
             #heading{
                 color:rgb(245, 120, 24);
                 background-color:rgb(247, 242, 247);
+                font-size:25px;
                 font-weight:bold;
                 font-style:italic;
-            }
+             }
+            
+            .sitetag{
+                color:rgb(61, 54, 55);
+                font-size:15px;
+                font-family:NanumGothic;
+                line-height:150%;
+             }
             
         </style>
     </head>
@@ -50,7 +58,7 @@
             <li>Centerpiece</li>
         </ol>
         
-        <p><a href="https://en.wikipedia.org/wiki/Floral_design" width="200">Floral design</a> or flower arrangement is the art of using plant materials and flowers to create an eye-catching and balanced composition. Evidence of refined floristry is found as far back as the culture of ancient Egypt. Professionally designed floral designs, arrangements or artwork incorporate the elements of floral design: line, form, space, texture, and color, and the principles of floral design: balance, proportion, rhythm, contrast, harmony, and unity.</p>
+        <p class="sitetag"><a href="https://en.wikipedia.org/wiki/Floral_design" width="200">Floral design</a> or flower arrangement is the art of using plant materials and flowers to create an eye-catching and balanced composition. Evidence of refined floristry is found as far back as the culture of ancient Egypt. Professionally designed floral designs, arrangements or artwork incorporate the elements of floral design: line, form, space, texture, and color, and the principles of floral design: balance, proportion, rhythm, contrast, harmony, and unity.</p>
         
         <h2 id="heading">Colour palette</h2>
         <h6>2020.05.13</h6>
@@ -61,17 +69,17 @@
             <li>Poster Design</li>
         </ol>
         
-        <p><a href="https://www.techopedia.com/definition/6547/color-palette">A color palette</a>, in the digital world, refers to the full range of colors that can be displayed on a device screen or other interface, or in some cases, a collection of colors and tools for use in paint and illustration programs.</p>
+        <p class="sitetag"><a href="https://www.techopedia.com/definition/6547/color-palette">A color palette</a>, in the digital world, refers to the full range of colors that can be displayed on a device screen or other interface, or in some cases, a collection of colors and tools for use in paint and illustration programs.</p>
         
         <h2 id="heading">Poster Design</h2>
         <h6>2020.05.13</h6>
         
-        <p><a href="https://en.wikipedia.org/wiki/Poster">A poster</a> is a temporary promotion of an idea, product, or event put up in a public space for mass consumption. Typically, posters include both textual and graphic elements, although a poster may be either wholly graphical or wholly text. Posters are designed to be both eye-catching and informative.</p>
+        <p class="sitetag"><a href="https://en.wikipedia.org/wiki/Poster">A poster</a> is a temporary promotion of an idea, product, or event put up in a public space for mass consumption. Typically, posters include both textual and graphic elements, although a poster may be either wholly graphical or wholly text. Posters are designed to be both eye-catching and informative.</p>
         
         <h2 id="heading">Porcelain Painting</h2>
         <h6>2020.05.14</h6>
         
-        <p><a href="https://simple.wikipedia.org/wiki/Porcelain" >Porcelain</a> is a ceramic material made by heating clay-type materials to high temperatures. It includes clay in the form of kaolinite.
+        <p class="sitetag"><a href="https://simple.wikipedia.org/wiki/Porcelain" >Porcelain</a> is a ceramic material made by heating clay-type materials to high temperatures. It includes clay in the form of kaolinite.
 
 There is a distinction between hard-paste porcelain, fired at 1400 degrees Celsius, and soft-paste porcelain, fired at 1200 degrees Celsius. Bone china is soft-paste porcelain made from bone ash and kaolinite.
 
@@ -80,7 +88,7 @@ The raw materials for porcelain are when mixed with water and form a plastic pas
         <h2 id="heading">Puppy daily</h2>
         <h6>2020.05.15</h6>
         
-        <p>This article is about the domestic dog. For other uses, see <a href="https://en.wikipedia.org/wiki/Puppy">Puppy</a> (disambiguation).
+        <p class="sitetag">This article is about the domestic dog. For other uses, see <a href="https://en.wikipedia.org/wiki/Puppy">Puppy</a> (disambiguation).
 
 Golden Retriever puppy
 
