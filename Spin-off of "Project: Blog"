@@ -3,6 +3,29 @@
     <head>
         <meta charset="utf-8">
         <title>Project: Blog</title>
+        <style>
+            h1{
+                color:rgb(42, 152, 235);
+                text-decoration:underline;
+            }
+            
+            h3{
+                color:rgb(122, 39, 217);
+                background-color:rgb(224, 220, 224);
+            }
+            
+            h6{
+                color:rgb(42, 152, 235);
+                text-decoration:underline;
+            }
+            #heading{
+                color:rgb(245, 120, 24);
+                background-color:rgb(247, 242, 247);
+                font-weight:bold;
+                font-style:italic;
+            }
+            
+        </style>
     </head>
     <body>
         
@@ -17,19 +40,20 @@
             <li>Puppy daily</li>
         </ul>
         
-        <h2>Floral Design</h2>
-        <h6>Posted on some date in some year</h6>
+        <h2 id="heading">Floral Design</h2>
+        <h6>2020.05.12</h6>
         
         <ol>
-            <li>Buquet</li>
+            <li>Bouquet</li>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Beach_Wedding_Bouquet.jpg/800px-Beach_Wedding_Bouquet.jpg" WIDTH="200">
             <li>Traditional object</li>
             <li>Centerpiece</li>
         </ol>
         
-        <p>Something excited happened.</p>
+        <p><a href="https://en.wikipedia.org/wiki/Floral_design" width="200">Floral design</a> or flower arrangement is the art of using plant materials and flowers to create an eye-catching and balanced composition. Evidence of refined floristry is found as far back as the culture of ancient Egypt. Professionally designed floral designs, arrangements or artwork incorporate the elements of floral design: line, form, space, texture, and color, and the principles of floral design: balance, proportion, rhythm, contrast, harmony, and unity.</p>
         
-        <h2>Colour palette</h2>
-        <h6>Posted on some date in some year</h6>
+        <h2 id="heading">Colour palette</h2>
+        <h6>2020.05.13</h6>
         
         <ol>
             <li>Famous paintings</li>
@@ -37,22 +61,33 @@
             <li>Poster Design</li>
         </ol>
         
-        <p>Something excited happened.</p>
+        <p><a href="https://www.techopedia.com/definition/6547/color-palette">A color palette</a>, in the digital world, refers to the full range of colors that can be displayed on a device screen or other interface, or in some cases, a collection of colors and tools for use in paint and illustration programs.</p>
         
-        <h2>Poster Design</h2>
-        <h6>Posted on some date in some year</h6>
+        <h2 id="heading">Poster Design</h2>
+        <h6>2020.05.13</h6>
         
-        <p>Something excited happened.</p>
+        <p><a href="https://en.wikipedia.org/wiki/Poster">A poster</a> is a temporary promotion of an idea, product, or event put up in a public space for mass consumption. Typically, posters include both textual and graphic elements, although a poster may be either wholly graphical or wholly text. Posters are designed to be both eye-catching and informative.</p>
         
-        <h2>Porcelain Painting</h2>
-        <h6>Posted on some date in some year</h6>
+        <h2 id="heading">Porcelain Painting</h2>
+        <h6>2020.05.14</h6>
         
-        <p>Something excited happened.</p>
+        <p><a href="https://simple.wikipedia.org/wiki/Porcelain" >Porcelain</a> is a ceramic material made by heating clay-type materials to high temperatures. It includes clay in the form of kaolinite.
+
+There is a distinction between hard-paste porcelain, fired at 1400 degrees Celsius, and soft-paste porcelain, fired at 1200 degrees Celsius. Bone china is soft-paste porcelain made from bone ash and kaolinite.
+
+The raw materials for porcelain are when mixed with water and form a plastic paste. The paste is worked to a required shape before firing in a kiln.</p>
         
-        <h2>Puppy daily</h2>
-        <h6>Posted on some date in some year</h6>
+        <h2 id="heading">Puppy daily</h2>
+        <h6>2020.05.15</h6>
         
-        <p>Something excited happened.</p>
+        <p>This article is about the domestic dog. For other uses, see <a href="https://en.wikipedia.org/wiki/Puppy">Puppy</a> (disambiguation).
+
+Golden Retriever puppy
+
+Basset Hound
+
+Newborn Welsh Springer Spaniels
+A puppy is a juvenile dog. Some puppies can weigh 1–1.5 kg (1-3 lb), while larger ones can weigh up to 7–11 kg (15-23 lb). All healthy puppies grow quickly after birth. A puppy's coat color may change as the puppy grows older, as is commonly seen in breeds such as the Yorkshire Terrier. Puppy refers specifically to young dogs,[1] while pup may be used for other animals such as wolves, seals, giraffes, guinea pigs, rats or sharks</p>
         
     </body>
 </html>
